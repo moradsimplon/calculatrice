@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'OpenSans', sans-serif;
+    background: url(../background.jpg) center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container {
+    font-size: 32px;
+    margin: 128px auto;
+    width: 768px;
+}
